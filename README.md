@@ -8,13 +8,18 @@ Follow these steps to clone the repository and initialize submodules:
 
 1. Clone the repository:
    ```bash
-   git clone --recursive <repository_url>
-   cd <repository_name>
-2. Set up the backend submodule:
+   git clone --recursive https://github.com/aloknegi100/fomoFactory.git
+
+2. Enter in repository
+   ```bash
+   cd fomoFactory/FomoFactory
+3. Set up the backend submodule:
+   ```bash
    cd backend;
    npm i;
    npm run dev;
-3. Set up the backend submodule:
+4. Set up the backend submodule:
+   ```bash
    cd frontend;
    npm i;
    npm run dev;

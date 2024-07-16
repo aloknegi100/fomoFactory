@@ -1,0 +1,6 @@
+[submodule "FomoFactory/backend"]
+	path = FomoFactory/backend
+	url = https://github.com/aloknegi100/fomoAssignmentBackend.git
+[submodule "FomoFactory/frontend"]
+	path = FomoFactory/frontend
+	url = https://github.com/aloknegi100/fomoAssignmentFrontend.git
